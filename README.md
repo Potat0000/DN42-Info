@@ -71,7 +71,7 @@ Read the general information above first!
 
 New York, US, BuyVM 美东 纽约
 
-- WireGuard Public Key | WireGuard 公钥
+- WireGuard Public Key 公钥
   
   `LUwqKS6QrCPv510Pwt1eAIiHACYDsbMjrkrbGTJfviU=`
 
