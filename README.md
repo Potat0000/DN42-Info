@@ -1,4 +1,4 @@
-# Potat0 DN42 Network
+# Potat0's DN42 Network
 
 Feel free to contact me via email 欢迎通过邮件联系我
 
