@@ -1,14 +1,25 @@
 # Potat0 DN42 Network
 
-> Feel free to contact me via email 欢迎通过邮件联系我
-> 
-> dn42@potat0.cc
+Feel free to contact me via email 欢迎通过邮件联系我
+
+dn42@potat0.cc
 
 ## Requirements 要求
 
-Contact information in the registry must always be up to date and admins must respond when contacted. 在注册处的联系信息必须是有效的，以便在需要的时候进行联系。
+- For now, I only accept tunnel connections using WireGuard. Meanwhile, my WireGuard AllowedIPs are as follow. 目前，我只接受使用 WireGuard 的隧道连接。同时，我的 WireGuard AllowedIPs 如下。
 
-I don't like to peer with servers in mainland China, but I don't refuse to do it either. If your server is in mainland China, please do let me know. 我不希望与中国大陆服务器进行 Peer，但是也不拒绝。如果你的服务器在中国大陆，请务必告知我。
+  ```
+  AllowedIPs = 172.20.0.0/14
+  AllowedIPs = 10.0.0.0/8
+  AllowedIPs = fd00::/8
+  AllowedIPs = fe80::/64
+  ```
+  
+- My network only accepts routes that are registered in DN42, and unknown routes (to accomodate newly registered users). 我的网络只允许接收在 DN42 中注册过的路由，以及未知路由（以方便新注册 DN42 的用户）。
+
+- Contact information in the registry must always be up to date and admins must respond when contacted. 在注册处的联系信息必须是有效的，且管理员在需要的时候可以联系得到。
+
+- I don't like to peer with servers in mainland China, but I don't refuse to do it either. If your server is in mainland China, please do let me know. 我不希望与中国大陆服务器进行 Peer，但是也不拒绝。如果你的服务器在中国大陆，请务必告知我。
 
 ## Peeeing requests 对等互联请求
 
@@ -16,23 +27,23 @@ In order to set up the peering, I need to know the following information:
 
 为了设置对等互联，我需要知道以下信息：
 
-The node you want to peer. 你想要对等互联的节点。
+- The node you want to peer. 你想要对等互联的节点。
 
-Your WireGuard public key. 你的 WireGuard 公钥。
+- Your WireGuard public key. 你的 WireGuard 公钥。
 
-The WireGuard endpoint for me to connect. Let me know if it's dynamic or you don't have one. 我要连接到的 WireGuard 终结点。如果是动态的或者没有，记得告诉我。
+- The WireGuard endpoint for me to connect. Let me know if it's dynamic or you don't have one. 我要连接到的 WireGuard 公网信息。如果是动态的或者你没有公网地址，记得告诉我。
 
-Your ASN. 你的 ASN。
+- Your ASN. 你的 ASN。
 
-The session(s) to use: IPv6 only, IPv6 + IPv4, or IPv4 only. 要使用的会话：仅 IPv6，IPv6 + IPv4，或仅 IPv4。
+- The session(s) to use: IPv6 + IPv4, IPv6 only, or IPv4 only. 要使用的会话：IPv6 + IPv4，仅 IPv6，或仅 IPv4。
 
-The extra capabilities: Multiprotocol BGP / Extended next hop. 额外的能力：多协议 BGP / 扩展的下一跳。
+- The extra capabilities: Multiprotocol BGP / Extended next hop. 额外的能力：多协议 BGP / 扩展的下一跳。
 
-The IP address(es): One for each session, and an additional IPv4 if you use MP-BGP without ENH. IP 地址：每个会话一个，以及一个额外的 IPv4 如果你用 MP-BGP 且不用 ENH。
+- The IP address(es): One for each session, and an additional IPv4 if you use MP-BGP without ENH. IP 地址：每个会话只需要一个，如果你用 MP-BGP 且不用 ENH，则同时需要 IPv6 和 IPv4 地址。
 
 E.g.:
 ```
-Node: us-east-1
+Node: US-East-1
 Public key: LUwqKS6QrCPv510Pwt1eAIiHACYDsbMjrkrbGTJfviU=
 Endpoint: us1.dn42.potat0.cc:21816
 ASN: 4242421816
@@ -67,7 +78,7 @@ Read the general information above first!
 
 先看上面的通用信息！
 
-### us-east-1
+### US-East-1
 
 New York, US, BuyVM 美东 纽约
 
@@ -81,11 +92,21 @@ New York, US, BuyVM 美东 纽约
 
 - Endpoint 公网信息
 
-    - IPv4/6: `us1.dn42.potat0.cc`
+    - IPv4/6:
 
-    - IPv4 IP: `198.98.56.83`
+      `us1.dn42.potat0.cc`
 
-    - IPv6 IP: `2605:6400:10:ffc:de30:1d96:e61e:43ff`
+    - IPv4:
+
+      `v4.us1.dn42.potat0.cc`
+
+      `198.98.56.83`
+
+    - IPv6:
+
+      `v6.us1.dn42.potat0.cc`
+
+      `2605:6400:10:ffc:de30:1d96:e61e:43ff`
 
 - DN42
 
