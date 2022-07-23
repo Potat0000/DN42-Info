@@ -6,7 +6,7 @@ dn42@potat0.cc
 
 ## Requirements 要求
 
-- For now, I only accept tunnel connections using WireGuard. Meanwhile, my WireGuard AllowedIPs are as follow. 目前，我只接受使用 WireGuard 的隧道连接。同时，我的 WireGuard AllowedIPs 如下。
+- For now, I only accept tunnel connections using WireGuard. My WireGuard AllowedIPs are as follow. 目前，我只接受使用 WireGuard 的隧道连接。我的 WireGuard AllowedIPs 如下。
 
   ```
   AllowedIPs = 172.20.0.0/14
