@@ -65,7 +65,7 @@ I prefer to use MP-BGP and ENH for Peer only over IPv6 Link-Local addresses.
 
 | General information | 通用信息                    |
 |:-------------------:|:--------------------------:|
-| ASN                 | 4242420458                 |
+| ASN                 | 4242421816                 |
 | Tunnel type         | WireGuard                  |
 | Listen port         | last 5 digits of your ASN  |
 | Link-local IPv6     | fe80::1816/64              |
