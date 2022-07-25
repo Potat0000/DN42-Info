@@ -1,5 +1,17 @@
 # Potat0's DN42 Network
 
+> If you are already on the DN42 network and have DNS configured, try visiting the DN42 domain of this page:
+>
+> 如果你已经加入 DN42 网络并且配置了 DNS，不妨试试访问本页在 DN42 中的域名：
+>
+> https://potat0.dn42/
+>
+> If you are experiencing certificate issues, it may mean that your device does not trust the DN42 root certificate. Please check the Wiki below.
+>
+> 如果你遇到了证书问题，可能意味着你的设备没有信任 DN42 的根证书。请查看下面的 Wiki。
+>
+> https://dn42.dev/services/Certificate-Authority
+
 Feel free to contact me via email 欢迎通过邮件联系我
 
 dn42 {at) potat0 [dot} cc
