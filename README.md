@@ -6,11 +6,9 @@
 >
 > [https://potat0.dn42/](https://potat0.dn42/)
 >
-> If you are experiencing certificate issues, it may mean that your device does not trust the DN42 root certificate. Please check the Wiki below.
+> If you are experiencing certificate issues, it may mean that your device does not trust the DN42 root certificate. Please check [this Wiki](https://dn42.dev/services/Certificate-Authority).
 >
-> 如果你遇到了证书问题，可能意味着你的设备没有信任 DN42 的根证书。请查看下面的 Wiki。
->
-> [https://dn42.dev/services/Certificate-Authority](https://dn42.dev/services/Certificate-Authority)
+> 如果你遇到了证书问题，可能意味着你的设备没有信任 DN42 的根证书。请查看[此 Wiki](https://dn42.dev/services/Certificate-Authority)。
 
 Feel free to contact me via email 欢迎通过邮件联系我
 
