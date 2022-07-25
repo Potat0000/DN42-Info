@@ -2,7 +2,7 @@
 
 Feel free to contact me via email 欢迎通过邮件联系我
 
-dn42@potat0.cc
+dn42 {at) potat0 [dot} cc
 
 ## Requirements 要求
 
@@ -55,9 +55,9 @@ IPv4: None
 
 ## If you are the initiator 如果你是发起人
 
-Set up your side of the peering according to the general and node-specific information first, and then send your information to [Potat0](mailto:dn42@potat0.cc) according to the Peering requests section.
+Set up your side of the peering according to the general and node-specific information first, and then send your information to me (See the beginning of this page for contact information) according to the Peering requests section.
 
-按照通用和节点特定的信息，先将你那边的对等互联设置好，然后按照对等互联请求一节的内容，将你的信息发送给 [Potat0](mailto:dn42@potat0.cc)。
+按照通用和节点特定的信息，先将你那边的对等互联设置好，然后按照对等互联请求一节的内容，将你的信息发送给我（联系方式见本页开头）。
 
 I prefer to use MP-BGP and ENH for Peer only over IPv6 Link-Local addresses.
 
