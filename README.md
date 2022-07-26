@@ -22,9 +22,9 @@ Want Peer or any other situation? Feel free to contact me! 想要 Peer 或是其
 
   dn42 {at) potat0 [dot} cc
   
-  I'll attempt to keep checking my inbox at least 2 times a day. Contact me on Telegram if possible.
+I'll attempt to keep checking my inbox at least 2 times a day, but there is definitely a big lag. So contact me on Telegram if possible.
   
-  我将尝试每天至少检查 2 次收件箱。如果可能的话，请优先选择在 Telegram 上联系我。
+我将尝试每天至少检查 2 次收件箱，但这肯定有不小的延迟。因此如果可能的话，建议优先选择在 Telegram 上联系我。
 
 ## Requirements 要求
 
