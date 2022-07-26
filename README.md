@@ -10,9 +10,21 @@
 >
 > 如果你遇到了证书问题，可能意味着你的设备没有信任 DN42 的根证书。请查看[此 Wiki](https://dn42.dev/services/Certificate-Authority)。
 
-Feel free to contact me via email 欢迎通过邮件联系我
+## Contact 联系方式
 
-dn42 {at) potat0 [dot} cc
+Want Peer or any other situation? Feel free to contact me! 想要 Peer 或是其他任何情况？欢迎随时联系我！
+
+- Telegram: **Preferred! 首选！**
+
+  [@Potat0_PM_Bot](https://t.me/Potat0_PM_Bot)
+
+- Email:
+
+  dn42 {at) potat0 [dot} cc
+  
+  I'll attempt to keep checking my inbox at least 2 times a day. Contact me on Telegram if possible.
+  
+  我将尝试每天至少检查 2 次收件箱。如果可能的话，请优先选择在 Telegram 上联系我。
 
 ## Requirements 要求
 
