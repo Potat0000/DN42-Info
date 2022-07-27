@@ -12,7 +12,7 @@
 
 ## Contact 联系方式
 
-Want Peer or any other situation? Feel free to contact me! 想要 Peer 或是其他任何情况？欢迎随时联系我！
+Want peer or any other situation? Feel free to contact me! 想要 Peer 或是其他任何情况？欢迎随时联系我！
 
 - Telegram: **Preferred! 首选！**
 
@@ -81,7 +81,7 @@ Set up your side of the peering according to the general and node-specific infor
 
 按照通用和节点特定的信息，先将你那边的对等互联设置好，然后按照对等互联请求一节的内容，将你的信息发送给我（联系方式见本页开头）。
 
-I prefer to use MP-BGP and ENH for Peer only over IPv6 Link-Local addresses.
+I'm in favor of multiprotocol bgp sessions via IPv6 link local with extended nexthop enabled
 
 我偏好使用 MP-BGP 和 ENH 来只通过 IPv6 Link-Local 地址进行 Peer。
 
