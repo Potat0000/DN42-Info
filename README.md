@@ -59,7 +59,7 @@ In order to set up the peering, I need to know the following information:
 
 - The session(s) to use: IPv6 + IPv4, IPv6 only, or IPv4 only. 要使用的会话：IPv6 + IPv4，仅 IPv6，或仅 IPv4。
 
-- The extra capabilities: Multiprotocol BGP / Extended next hop. 额外的能力：多协议 BGP / 扩展的下一跳。
+- The extra capabilities: Multiprotocol BGP / Extended next hop / Extended messages. 额外的能力：Multiprotocol BGP / Extended next hop / Extended messages。
 
 - The IP address(es): One for each session, and an additional IPv4 if you use MP-BGP without ENH. IP 地址：每个会话只需要一个，如果你用 MP-BGP 且不用 ENH，则同时需要 IPv6 和 IPv4 地址。
 
