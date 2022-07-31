@@ -10,7 +10,17 @@
 >
 > 如果你遇到了证书问题，可能意味着你的设备没有信任 DN42 的根证书。请查看[此 Wiki](https://dn42.dev/services/Certificate-Authority)。
 
-## Contact 联系方式
+## Basic Information 基本信息
+
+- ASN: `AS4242421816`
+
+- DN42 IPv4: `172.23.246.0/26`
+
+- DN42 IPv6: `fd2c:1323:4042::/48`
+
+- Domain: `potat0.dn42`
+
+### Contact 联系方式
 
 Want peer or any other situation? Feel free to contact me! 想要 Peer 或是其他任何情况？欢迎随时联系我！
 
@@ -85,8 +95,8 @@ In order to set up the peering, I need to know the following information:
 E.g.:
 ```
 Node: US-East-1
-Public key: LUwqKS6QrCPv510Pwt1eAIiHACYDsbMjrkrbGTJfviU=
-Endpoint: us1.dn42.potat0.cc:21816
+Public key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Endpoint: your.domain.tld:21816
 ASN: 4242421816
 Sessions: IPv6 + IPv4
 Capabilities: MP-BGP, ENH
@@ -98,9 +108,9 @@ IPv4: None
 
 ## Nodes 节点
 
-Only one node available :(
+Only one node available for now :(
 
-只有一个可用节点 :(
+目前只有一个可用节点 :(
 
 ### US-East-1
 
