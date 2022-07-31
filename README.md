@@ -26,6 +26,18 @@ I'll attempt to keep checking my inbox at least 2 times a day, but there is defi
   
 我将尝试每天至少检查 2 次收件箱，但这肯定有不小的延迟。因此如果可能的话，建议优先选择在 Telegram 上联系我。
 
+## AutoPeer & Bot 自动对等连接与机器人
+
+I maintain a Telegram bot to provide the AutoPeer service and some basic DN42 network testing services (e.g. `ping`, `traceroute`).  我维护了一个 Telegram 机器人，用于提供 AutoPeer 服务及一些基本的 DN42 网络测试服务（如 `ping`、`traceroute`）。
+
+You can find it at [@Potat0_DN42_Bot](https://t.me/Potat0_DN42_Bot), and feel free to add it to your group chat. 你可以在 [@Potat0_DN42_Bot](https://t.me/Potat0_DN42_Bot) 找到它，也欢迎你将它添加至群聊。
+
+## Looking Glass
+
+Sorry, for some reason I can't provide a regular Looking Glass page like other users do. But to make troubleshooting the network easier, I provide the `/lg` command in my bot to get results same to traditional Looking Glass.
+
+抱歉，由于一些原因，我无法像其他用户一样提供一个常规的 Looking Glass 页面。但是为了方便调试网络，我在机器人中提供了 `/lg` 命令获得与传统 Looking Glass 一致的结果。
+
 ## Requirements 要求
 
 - For now, I only accept tunnel connections using WireGuard. My WireGuard AllowedIPs are as follow. 目前，我只接受使用 WireGuard 的隧道连接。我的 WireGuard AllowedIPs 如下。
@@ -43,7 +55,14 @@ I'll attempt to keep checking my inbox at least 2 times a day, but there is defi
 
 - I don't like to peer with servers in mainland China, but I don't refuse to do it either. If your server is in mainland China, please do let me know. 我不希望与中国大陆服务器进行 Peer，但是也不拒绝。如果你的服务器在中国大陆，请务必告知我。
 
-## Peeeing requests 对等互联请求
+## Peeeing requests for manual peering 人工对等互联请求
+
+Please use the AutoPeer service first! 请优先使用 AutoPeer 服务！
+
+If you are unable to use the AutoPeer service, then please send a Peer Request as follows. 如果你无法使用 AutoPeer 服务，则请按如下要求发送 Peer Request。
+
+<details>
+<summary>Continue 继续阅读</summary>
 
 In order to set up the peering, I need to know the following information:
 
@@ -75,65 +94,18 @@ IPv6: fe80::1816
 IPv4: None
 ```
 
-## If you are the initiator 如果你是发起人
-
-Set up your side of the peering according to the general and node-specific information first, and then send your information to me (See the beginning of this page for contact information) according to the Peering requests section.
-
-按照通用和节点特定的信息，先将你那边的对等互联设置好，然后按照对等互联请求一节的内容，将你的信息发送给我（联系方式见本页开头）。
-
-I'm in favor of multiprotocol bgp sessions via IPv6 link local with extended nexthop enabled
-
-我偏好使用 MP-BGP 和 ENH 来只通过 IPv6 Link-Local 地址进行 Peer。
-
-| General information | 通用信息                    |
-|:-------------------:|:--------------------------:|
-| ASN                 | 4242421816                 |
-| Tunnel type         | WireGuard                  |
-| Listen port         | last 5 digits of your ASN  |
-| Link-local IPv6     | fe80::1816/64              |
-| Multiprotocol BGP   | default: Enabled           |
-| Extended next hop   | default: Enabled           |
+</details>
 
 ## Nodes 节点
 
-Read the general information above first!
+Only one node available :(
 
-先看上面的通用信息！
+只有一个可用节点 :(
 
 ### US-East-1
 
 New York, US, BuyVM 美东 纽约
 
-- WireGuard Public Key 公钥
-  
-  `LUwqKS6QrCPv510Pwt1eAIiHACYDsbMjrkrbGTJfviU=`
-
 - Connectivity 连接性
   
   IPv4 + IPv6 (1Gbps)
-
-- Endpoint 公网信息
-
-    - IPv4/6:
-
-      `us1.dn42.potat0.cc`
-
-    - IPv4:
-
-      `v4.us1.dn42.potat0.cc`
-
-      `198.98.56.83`
-
-    - IPv6:
-
-      `v6.us1.dn42.potat0.cc`
-
-      `2605:6400:10:ffc:de30:1d96:e61e:43ff`
-
-- DN42
-
-    - `fe80::1816/64`
-
-    - `172.23.246.1/32`
-
-    - `fd2c:1323:4042::1/128`
