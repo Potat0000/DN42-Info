@@ -72,16 +72,9 @@ Also, to make troubleshooting the network easier, I provide the `/lg` command in
 
 ## Peeeing requests for manual peering 人工对等互联请求
 
-Please use the AutoPeer service first! 请优先使用 AutoPeer 服务！
+**Please use the AutoPeer service first! 请优先使用 AutoPeer 服务！**
 
 If you are unable to use the AutoPeer service, then please send a Peer Request as follows. 如果你无法使用 AutoPeer 服务，则请按如下要求发送 Peer Request。
-
-<details>
-<summary>Continue 继续阅读</summary>
-
-In order to set up the peering, I need to know the following information:
-
-为了设置对等互联，我需要知道以下信息：
 
 - The node you want to peer. 你想要对等互联的节点。
 
@@ -108,8 +101,6 @@ Capabilities: MP-BGP, ENH
 IPv6: fe80::1816
 IPv4: None
 ```
-
-</details>
 
 ## Nodes 节点
 
