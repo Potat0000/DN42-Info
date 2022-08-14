@@ -44,9 +44,14 @@ You can find it at [@Potat0_DN42_Bot](https://t.me/Potat0_DN42_Bot), and feel fr
 
 ## Looking Glass
 
-Sorry, for some reason I can't provide a regular Looking Glass page like other users do. But to make troubleshooting the network easier, I provide the `/lg` command in my bot to get results same to traditional Looking Glass.
+I provide a Looking Glass service at the following address. 我在以下地址提供了 Looking Glass 服务。
 
-抱歉，由于一些原因，我无法像其他用户一样提供一个常规的 Looking Glass 页面。但是为了方便调试网络，我在机器人中提供了 `/lg` 命令获得与传统 Looking Glass 一致的结果。
+- https://lg.dn42.potat0.cc/ (Clearnet 公网)
+- https://lg.potat0.dn42/ (DN42)
+
+Also, to make troubleshooting the network easier, I provide the `/lg` command in my bot to get the Looking Glass results as well.
+
+同时，为了方便调试网络，我在机器人中提供了 `/lg` 命令，也可以获得 Looking Glass 的结果。
 
 ## Requirements 要求
 
