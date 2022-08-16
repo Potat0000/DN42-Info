@@ -68,7 +68,7 @@ Also, to make troubleshooting the network easier, I provide the `/lg` command in
 
 - Contact information in the registry must always be up to date and admins must respond when contacted. 在注册处的联系信息必须是有效的，且管理员在需要的时候可以联系得到。
 
-- I don't like to peer with servers in mainland China, but I don't refuse to do it either. If your server is in mainland China, please do let me know. 我不希望与中国大陆服务器进行 Peer，但是也不拒绝。如果你的服务器在中国大陆，请务必告知我。
+- I do not Peer with servers in mainland China, but I don't completely refuse either. If your server is in mainland China and you have a reasonable explanation, please contact me directly. 我不与中国大陆服务器进行 Peer，但是也不完全拒绝。如果你的服务器在中国大陆，并且有合理理由，请直接联系我。
 
 ## Peeeing requests for manual peering 人工对等互联请求
 
