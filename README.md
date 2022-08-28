@@ -49,10 +49,6 @@ I provide a Looking Glass service at the following address. 我在以下地址�
 - [https://lg.dn42.potat0.cc/](https://lg.dn42.potat0.cc/) (Clearnet 公网)
 - [https://lg.potat0.dn42/](https://lg.potat0.dn42/) (DN42)
 
-Also, to make troubleshooting the network easier, I provide the `/lg` command in my bot to get the Looking Glass results as well.
-
-同时，为了方便调试网络，我在机器人中提供了 `/lg` 命令，也可以获得 Looking Glass 的结果。
-
 ## Requirements 要求
 
 - For now, I only accept tunnel connections using WireGuard. My WireGuard AllowedIPs are as follow. 目前，我只接受使用 WireGuard 的隧道连接。我的 WireGuard AllowedIPs 如下。
