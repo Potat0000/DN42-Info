@@ -46,7 +46,7 @@ You can find it at [@Potat0_DN42_Bot](https://t.me/Potat0_DN42_Bot), and feel fr
 
 I provide a Looking Glass service at the following address. 我在以下地址提供了 Looking Glass 服务。
 
-- [https://lg.dn42.potat0.cc/](https://lg.dn42.potat0.cc/) (Clearnet 公网)
+- [https://lg.potat0.cc/](https://lg.potat0.cc/) (Clearnet 公网)
 - [https://lg.potat0.dn42/](https://lg.potat0.dn42/) (DN42)
 
 ## Requirements 要求
