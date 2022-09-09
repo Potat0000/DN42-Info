@@ -100,9 +100,9 @@ IPv4: None
 
 ## Nodes 节点
 
-If you have multiple nodes available, it is recommended to peer with more than one of my nodes to improve network robustness. But my single node only allows to peer with one of your devices.
+Setting up a peering in every region where we both have nodes is recommended to improve network robustness.
 
-如果你有多个节点可用，那么建议你与我的多个节点建立 Peer，以加强网络健壮性。但是我的单一节点仅允许与你的一台设备建立 Peer。
+推荐在每个我们都有节点的地区建立 Peer，以加强网络健壮性。
 
 ### US1 | New York - BuyVM
 
