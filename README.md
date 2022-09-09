@@ -100,13 +100,17 @@ IPv4: None
 
 ## Nodes 节点
 
-Only one node available for now :(
+If you have multiple nodes available, it is recommended to peer with more than one of my nodes to improve network robustness. But my single node only allows to peer with one of your devices.
 
-目前只有一个可用节点 :(
+如果你有多个节点可用，那么建议你与我的多个节点建立 Peer，以加强网络健壮性。但是我的单一节点仅允许与你的一台设备建立 Peer。
 
-### US-East-1
+### US1 | New York - BuyVM
 
-New York, US, BuyVM 美东 纽约
+- Connectivity 连接性
+  
+  IPv4 + IPv6 (1Gbps)
+  
+### JP1 | Tokyo - AWS
 
 - Connectivity 连接性
   
