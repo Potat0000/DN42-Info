@@ -88,7 +88,7 @@ If you are unable to use the AutoPeer service, then please send a Peer Request a
 
 E.g.:
 ```
-Node: US-East-1
+Node: US1
 Public key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Endpoint: your.domain.tld:21816
 ASN: 4242421816
