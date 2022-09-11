@@ -106,11 +106,31 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 ### US1 | New York - BuyVM
 
+- Endpoint: `us1.dn42.potat0.cc`
+
+  - IPv4 IP: `198.98.56.83`
+
+  - IPv6 IP: `2605:6400:10:ffc:de30:1d96:e61e:43ff`
+
+- WireGuard Public Key:
+
+  `LUwqKS6QrCPv510Pwt1eAIiHACYDsbMjrkrbGTJfviU=`
+
 - Connectivity 连接性
   
   IPv4 + IPv6 (1Gbps)
   
 ### JP1 | Tokyo - AWS
+
+- Endpoint: `jp1.dn42.potat0.cc`
+
+  - IPv4 IP: `35.75.89.80`
+
+  - IPv6 IP: `2406:da14:965:c400:3ef9:6344:5f16:be2`
+
+- WireGuard Public Key:
+
+  `Tv1+HniELrS4Br2i7oQgwqBJFXQKculsW8r+UOqQXH0=`
 
 - Connectivity 连接性
   
