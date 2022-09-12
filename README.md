@@ -106,13 +106,21 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 ### US1 | New York - BuyVM
 
-- Endpoint: `us1.dn42.potat0.cc`
+- Endpoint 公网地址
 
-  - IPv4 IP: `198.98.56.83`
+  `us1.dn42.potat0.cc`
 
-  - IPv6 IP: `2605:6400:10:ffc:de30:1d96:e61e:43ff`
+  `198.98.56.83`
 
-- WireGuard Public Key:
+  `2605:6400:10:ffc:de30:1d96:e61e:43ff`
+  
+- DN42
+
+  `172.23.246.1`
+  
+  `fd2c:1323:4042::1`
+
+- WireGuard Public Key
 
   `LUwqKS6QrCPv510Pwt1eAIiHACYDsbMjrkrbGTJfviU=`
 
@@ -122,13 +130,21 @@ Setting up a peering in every region where we both have nodes is recommended to 
   
 ### JP1 | Tokyo - AWS
 
-- Endpoint: `jp1.dn42.potat0.cc`
+- Endpoint 公网地址
 
-  - IPv4 IP: `35.75.89.80`
+  `jp1.dn42.potat0.cc`
 
-  - IPv6 IP: `2406:da14:965:c400:3ef9:6344:5f16:be2`
+  `35.75.89.80`
 
-- WireGuard Public Key:
+  `2406:da14:965:c400:3ef9:6344:5f16:be2`
+
+- DN42
+
+  `172.23.246.2`
+  
+  `fd2c:1323:4042::2`
+
+- WireGuard Public Key
 
   `Tv1+HniELrS4Br2i7oQgwqBJFXQKculsW8r+UOqQXH0=`
 
