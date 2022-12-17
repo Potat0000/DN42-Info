@@ -119,6 +119,8 @@ Setting up a peering in every region where we both have nodes is recommended to 
   `172.23.246.1`
   
   `fd2c:1323:4042::1`
+  
+  `fe80::1816`
 
 - WireGuard Public Key
 
@@ -143,6 +145,8 @@ Setting up a peering in every region where we both have nodes is recommended to 
   `172.23.246.2`
   
   `fd2c:1323:4042::2`
+  
+  `fe80::1816`
 
 - WireGuard Public Key
 
