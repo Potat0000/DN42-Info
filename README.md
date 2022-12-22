@@ -38,9 +38,11 @@ I'll attempt to keep checking my inbox at least 2 times a day, but there is defi
 
 ## AutoPeer & Bot 自动对等连接与机器人
 
-I maintain a Telegram bot to provide the AutoPeer service and some basic DN42 network testing services (e.g. `ping`, `traceroute`).  我维护了一个 Telegram 机器人，用于提供 AutoPeer 服务及一些基本的 DN42 网络测试服务（如 `ping`、`traceroute`）。
+I maintain a Telegram bot to provide the AutoPeer service and some basic DN42 network services (e.g. `ping`, `traceroute`, `rank`).  我维护了一个 Telegram 机器人，用于提供 AutoPeer 服务及一些基本的 DN42 网络服务（如 `ping`、`traceroute`、`rank`）。
 
 You can find it at [@Potat0_DN42_Bot](https://t.me/Potat0_DN42_Bot), and feel free to add it to your group chat. 你可以在 [@Potat0_DN42_Bot](https://t.me/Potat0_DN42_Bot) 找到它，也欢迎你将它添加至群聊。
+
+The bot is open source [here](https://github.com/Potat0000/dn42-bot). If you like it, feel free to deploy it yourself and Star! 机器人在 [此处](https://github.com/Potat0000/dn42-bot) 开源。如果你喜欢的话也可以自己部署。欢迎 Star！
 
 ## Looking Glass
 
