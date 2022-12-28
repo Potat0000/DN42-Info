@@ -5,6 +5,10 @@
 > 如果你已经加入 DN42 网络并且配置了 DNS，不妨试试访问本页在 DN42 中的域名：
 >
 > [htts://potat0.dn42/](http://potat0.dn42/)
+> 
+> You need to configure DN42 DNS to access .dn42 domain names. Please check [this Wiki](https://dn42.dev/services/DNS).
+> 
+> 你需要配置 DN42 DNS 才能访问 `.dn42` 域名。请查看[此 Wiki](https://dn42.dev/services/DNS)。
 
 ## Basic Information 基本信息
 
