@@ -4,11 +4,7 @@
 >
 > 如果你已经加入 DN42 网络并且配置了 DNS，不妨试试访问本页在 DN42 中的域名：
 >
-> [https://potat0.dn42/](https://potat0.dn42/)
->
-> If you are experiencing certificate issues, it may mean that your device does not trust the DN42 root certificate. Please check [this Wiki](https://dn42.dev/services/Certificate-Authority).
->
-> 如果你遇到了证书问题，可能意味着你的设备没有信任 DN42 的根证书。请查看[此 Wiki](https://dn42.dev/services/Certificate-Authority)。
+> [htts://potat0.dn42/](http://potat0.dn42/)
 
 ## Basic Information 基本信息
 
