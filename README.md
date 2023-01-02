@@ -56,10 +56,7 @@ I provide a Looking Glass service at the following address. 我在以下地址�
 - For now, I only accept tunnel connections using WireGuard. My WireGuard AllowedIPs are as follow. 目前，我只接受使用 WireGuard 的隧道连接。我的 WireGuard AllowedIPs 如下。
 
   ```
-  AllowedIPs = 172.20.0.0/14
-  AllowedIPs = 10.0.0.0/8
-  AllowedIPs = fd00::/8
-  AllowedIPs = fe80::/64
+  AllowedIPs = 172.20.0.0/14, 10.0.0.0/8, 172.31.0.0/16, fd00::/8, fe80::/64
   ```
   
 - My network only accepts routes that are registered in DN42, and unknown routes (to accomodate newly registered users). 我的网络只允许接收在 DN42 中注册过的路由，以及未知路由（以方便新注册 DN42 的用户）。
