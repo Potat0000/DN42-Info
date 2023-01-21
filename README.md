@@ -127,7 +127,7 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 - Connectivity 连接性
   
-  IPv4 + IPv6 (10Gbps)
+  IPv4 + IPv6 (5Gbps)
   
 ### JP1 | Tokyo, Japan | AWS
 
@@ -153,7 +153,7 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 - Connectivity 连接性
   
-  IPv4 + IPv6 (200Mbps)
+  IPv4 + IPv6 (500Mbps)
   
 ### NO1 | Sandefjord, Norway | Terrahost
 
