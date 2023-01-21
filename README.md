@@ -103,7 +103,7 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 推荐在每个我们都有节点的地区建立 Peer，以加强网络健壮性。
 
-### US1 | New York - BuyVM
+### US1 | New York, USA | BuyVM
 
 - Endpoint 公网地址
 
@@ -127,9 +127,9 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 - Connectivity 连接性
   
-  IPv4 + IPv6 (1Gbps)
+  IPv4 + IPv6 (10Gbps)
   
-### JP1 | Tokyo - AWS
+### JP1 | Tokyo, Japan | AWS
 
 - Endpoint 公网地址
 
@@ -153,4 +153,30 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 - Connectivity 连接性
   
-  IPv4 + IPv6 (1Gbps)
+  IPv4 + IPv6 (200Mbps)
+  
+### NO1 | Sandefjord, Norway | Terrahost
+
+- Endpoint 公网地址
+
+  `no1.dn42.potat0.cc`
+
+  `185.125.171.92`
+
+  `2a03:94e0:ffff:185:125:171::92`
+
+- DN42
+
+  `172.23.246.3`
+  
+  `fd2c:1323:4042::3`
+  
+  `fe80::1816`
+
+- WireGuard Public Key
+
+  `H6HdsuQsav9puKyo8SJaML0vPU/a2lLQjTRc7dmiqjs=`
+
+- Connectivity 连接性
+  
+  IPv4 + IPv6 (10Gbps)
