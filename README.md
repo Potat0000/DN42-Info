@@ -51,6 +51,12 @@ I provide a Looking Glass service at the following address. 我在以下地址�
 - [https://lg.dn42.potat0.cc/](https://lg.dn42.potat0.cc/) (Clearnet 公网)
 - [http://lg.potat0.dn42/](http://lg.potat0.dn42/) (DN42)
 
+## Status Page
+
+I provide a Status Page at the following address. 我在以下地址提供了一个状态页。
+
+- [https://status.dn42.potat0.cc/](https://status.dn42.potat0.cc/) (Clearnet 公网)
+
 ## Requirements 要求
 
 - For now, I only accept tunnel connections using WireGuard. My WireGuard AllowedIPs are as follow. 目前，我只接受使用 WireGuard 的隧道连接。我的 WireGuard AllowedIPs 如下。
