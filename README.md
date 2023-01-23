@@ -4,7 +4,7 @@
 >
 > 如果你已经加入 DN42 网络并且配置了 DNS，不妨试试访问本页在 DN42 中的域名：
 >
-> [http://potat0.dn42/](http://potat0.dn42/)
+> [https://potat0.dn42/](https://potat0.dn42/)
 > 
 > You need to configure DN42 DNS to access `.dn42` domain names. Please check [this Wiki](https://dn42.dev/services/DNS).
 > 
@@ -49,7 +49,7 @@ The bot is open source [here](https://github.com/Potat0000/dn42-bot). If you lik
 I provide a Looking Glass service at the following address. 我在以下地址提供了 Looking Glass 服务。
 
 - [https://lg.dn42.potat0.cc/](https://lg.dn42.potat0.cc/) (Clearnet 公网)
-- [http://lg.potat0.dn42/](http://lg.potat0.dn42/) (DN42)
+- [https://lg.potat0.dn42/](https://lg.potat0.dn42/) (DN42)
 
 ## Status Page
 
