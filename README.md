@@ -56,6 +56,7 @@ I provide a Looking Glass service at the following address. 我在以下地址�
 I provide a Status Page at the following address. 我在以下地址提供了一个状态页。
 
 - [https://status.dn42.potat0.cc/](https://status.dn42.potat0.cc/) (Clearnet 公网)
+- [https://status.potat0.dn42/](https://status.potat0.dn42/) (DN42)
 
 ## Requirements 要求
 
