@@ -122,9 +122,9 @@ Setting up a peering in every region where we both have nodes is recommended to 
   
 - DN42
 
-  `172.23.246.1`
+  `172.23.246.3`
   
-  `fd2c:1323:4042::1`
+  `fd2c:1323:4042::3`
   
   `fe80::1816`
 
@@ -148,9 +148,9 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 - DN42
 
-  `172.23.246.2`
+  `172.23.246.4`
   
-  `fd2c:1323:4042::2`
+  `fd2c:1323:4042::4`
   
   `fe80::1816`
 
@@ -174,9 +174,9 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 - DN42
 
-  `172.23.246.3`
+  `172.23.246.5`
   
-  `fd2c:1323:4042::3`
+  `fd2c:1323:4042::5`
   
   `fe80::1816`
 
