@@ -110,7 +110,7 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 推荐在每个我们都有节点的地区建立 Peer，以加强网络健壮性。
 
-### US1 | New York, USA | BuyVM
+### US1 | Las Vegas, USA | BuyVM
 
 - Endpoint 公网地址
 
