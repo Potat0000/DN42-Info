@@ -110,7 +110,9 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 推荐在每个我们都有节点的地区建立 Peer，以加强网络健壮性。
 
-### US1 | Las Vegas, USA | BuyVM
+### North America 北美洲
+
+#### US1 | Las Vegas, USA | BuyVM
 
 - Endpoint 公网地址
 
@@ -134,35 +136,39 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 - Connectivity 连接性
   
-  IPv4 + IPv6 (5Gbps)
+  IPv4 + IPv6
   
-### JP1 | Tokyo, Japan | AWS
+  1Gbps
+  
+#### US2 | Seattle, USA | MoeIX
 
 - Endpoint 公网地址
 
-  `jp1.dn42.potat0.cc`
+  `us2.dn42.potat0.cc`
 
-  `35.75.89.80`
-
-  `2406:da14:965:c400:3ef9:6344:5f16:be2`
+  `2a06:a005:11fe:8fff::142`
 
 - DN42
 
-  `172.23.246.4`
+  `172.23.246.6`
   
-  `fd2c:1323:4042::4`
+  `fd2c:1323:4042::6`
   
   `fe80::1816`
 
 - WireGuard Public Key
 
-  `Tv1+HniELrS4Br2i7oQgwqBJFXQKculsW8r+UOqQXH0=`
+  `0kF/O8LHhm/DxBHRDwWfkCuDEsijCea2s9g9e+jkt1o=`
 
 - Connectivity 连接性
   
-  IPv4 + IPv6 (500Mbps)
+  IPv4 (Behind NAT) + IPv6
   
-### NO1 | Sandefjord, Norway | Terrahost
+  1Gbps
+
+### Europe 欧洲
+
+#### NO1 | Sandefjord, Norway | Terrahost
 
 - Endpoint 公网地址
 
@@ -186,4 +192,62 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 - Connectivity 连接性
   
-  IPv4 + IPv6 (10Gbps)
+  IPv4 + IPv6
+  
+  10Gbps
+  
+#### DE1 | Falkenstein, Germany | MoeIX
+
+- Endpoint 公网地址
+
+  `de1.dn42.potat0.cc`
+
+  `2a01:4f8:10b:2e82:8000::102`
+
+- DN42
+
+  `172.23.246.7`
+  
+  `fd2c:1323:4042::7`
+  
+  `fe80::1816`
+
+- WireGuard Public Key
+
+  `ZdnxrV6aa/5vlFV7VqdRhZs37Xx7bwJVqpbFU5/P3U4=`
+
+- Connectivity 连接性
+  
+  IPv6 Only
+  
+  1Gbps
+
+### Asia 亚洲
+
+#### JP1 | Tokyo, Japan | AWS
+
+- Endpoint 公网地址
+
+  `jp1.dn42.potat0.cc`
+
+  `35.75.89.80`
+
+  `2406:da14:965:c400:3ef9:6344:5f16:be2`
+
+- DN42
+
+  `172.23.246.4`
+  
+  `fd2c:1323:4042::4`
+  
+  `fe80::1816`
+
+- WireGuard Public Key
+
+  `Tv1+HniELrS4Br2i7oQgwqBJFXQKculsW8r+UOqQXH0=`
+
+- Connectivity 连接性
+  
+  IPv4 + IPv6
+  
+  200Mbps
