@@ -195,32 +195,6 @@ Setting up a peering in every region where we both have nodes is recommended to 
   IPv4 + IPv6
   
   10Gbps
-  
-#### DE1 | Falkenstein, Germany | MoeIX
-
-- Endpoint 公网地址
-
-  `de1.dn42.potat0.cc`
-
-  `2a01:4f8:10b:2e82:8000::102`
-
-- DN42
-
-  `172.23.246.7`
-  
-  `fd2c:1323:4042::7`
-  
-  `fe80::1816`
-
-- WireGuard Public Key
-
-  `ZdnxrV6aa/5vlFV7VqdRhZs37Xx7bwJVqpbFU5/P3U4=`
-
-- Connectivity 连接性
-  
-  IPv6 Only
-  
-  1Gbps
 
 ### Asia 亚洲
 
