@@ -206,7 +206,7 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
   `35.75.89.80`
 
-  `2406:da14:965:c400:3ef9:6344:5f16:be2`
+  `2406:da14:965:c402:af35:12e9:826c:916a`
 
 - DN42
 
@@ -224,4 +224,4 @@ Setting up a peering in every region where we both have nodes is recommended to 
   
   IPv4 + IPv6
   
-  200Mbps
+  1Gbps
