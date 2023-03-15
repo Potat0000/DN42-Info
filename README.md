@@ -48,14 +48,14 @@ The bot is open source [here](https://github.com/Potat0000/dn42-bot). If you lik
 
 I provide a Looking Glass service at the following address. 我在以下地址提供了 Looking Glass 服务。
 
-- [https://lg.dn42.potat0.cc/](https://lg.dn42.potat0.cc/) (Clearnet 公网)
+- [https://lg-dn42.potat0.cc/](https://lg-dn42.potat0.cc/) (Clearnet 公网)
 - [https://lg.potat0.dn42/](https://lg.potat0.dn42/) (DN42)
 
 ## Status Page
 
 I provide a Status Page at the following address. 我在以下地址提供了一个状态页。
 
-- [https://status.dn42.potat0.cc/](https://status.dn42.potat0.cc/) (Clearnet 公网)
+- [https://status-dn42.potat0.cc/](https://status-dn42.potat0.cc/) (Clearnet 公网)
 - [https://status.potat0.dn42/](https://status.potat0.dn42/) (DN42)
 
 ## Requirements 要求
