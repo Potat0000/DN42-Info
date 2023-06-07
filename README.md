@@ -9,6 +9,10 @@
 > You need to configure DN42 DNS to access `.dn42` domain names. Please check [this Wiki](https://dn42.dev/services/DNS).
 > 
 > 你需要配置 DN42 DNS 才能访问 `.dn42` 域名。请查看[此 Wiki](https://dn42.dev/services/DNS)。
+>
+> If you are experiencing certificate issues, it may mean that your device does not trust the DN42 root certificate. Please check [this Wiki](https://dn42.dev/services/Certificate-Authority).
+>
+> 如果你遇到了证书问题，可能意味着你的设备没有信任 DN42 的根证书。请查看[此 Wiki](https://dn42.dev/services/Certificate-Authority)。
 
 ## Basic Information 基本信息
 
