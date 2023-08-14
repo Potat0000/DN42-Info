@@ -144,7 +144,7 @@ Setting up a peering in every region where we both have nodes is recommended to 
   
   1Gbps
 
-#### NO1 | Sandefjord, Norway | Terrahost
+#### NO1 | Norway | Terrahost
 
 - Endpoint 公网地址
 
@@ -172,15 +172,15 @@ Setting up a peering in every region where we both have nodes is recommended to 
   
   10Gbps
 
-#### JP1 | Tokyo, Japan | AWS
+#### SG1 | Singapore | AWS
 
 - Endpoint 公网地址
 
-  `jp1.dn42.potat0.cc`
+  `sg1.dn42.potat0.cc`
 
-  `35.75.89.80`
+  `52.77.41.40`
 
-  `2406:da14:965:c402:af35:12e9:826c:916a`
+  `2406:da18:280:ac00:4415:bc12:e446:4d9a`
 
 - DN42
 
