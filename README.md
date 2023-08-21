@@ -76,7 +76,7 @@ I provide a Status Page at the following address. 我在以下地址提供了一
 
 - Contact information in the registry must always be up to date and admins must respond when contacted. 在注册处的联系信息必须是有效的，且管理员在需要的时候可以联系得到。
 
-- I do not Peer with servers in mainland China, but I don't completely refuse either. If your server is in mainland China and you have a reasonable explanation, please contact me directly. 我不与中国大陆服务器进行 Peer，但是也不完全拒绝。如果你的服务器在中国大陆，并且有合理理由，请直接联系我。
+- I do not Peer with servers in mainland China, but I don't completely refuse either. If your server is in mainland China and you have a reasonable explanation, please contact me directly. **DO NOT** try to use Bot to establish a connection to Chinese Mainland!  我不与中国大陆服务器进行 Peer，但是也不完全拒绝。如果你的服务器在中国大陆，并且有合理理由，请直接联系我。**不要**尝试使用 Bot 建立与中国大陆的连接！
 
 ## Peeeing requests for manual peering 人工对等互联请求
 
