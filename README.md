@@ -178,7 +178,7 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
   `sg1.dn42.potat0.cc`
 
-  `52.77.41.40`
+  IPv4 address may change. Please use the domain above. IPv4 地址可能发生变化，请使用上方域名。
 
   `2406:da18:280:ac00:4415:bc12:e446:4d9a`
 
