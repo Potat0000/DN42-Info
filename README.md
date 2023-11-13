@@ -30,7 +30,7 @@ Want peer or any other situation? Feel free to contact me! 想要 Peer 或是其
 
 - Telegram: **Preferred! 首选！**
 
-  [@Potat000000000](https://t.me/Potat000000000)
+  [@Potat00000](https://t.me/Potat00000)
 
  Email:
 
