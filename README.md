@@ -144,6 +144,34 @@ Setting up a peering in every region where we both have nodes is recommended to 
   
   1Gbps
 
+#### HK1 | Hong Kong | DogYun
+
+- Endpoint 公网地址
+
+  `hk1.dn42.potat0.cc`
+
+  `206.237.0.233`
+
+  `2401:2660:1000:3aa:2545:56b0:8207:3455`
+
+- DN42
+
+  `172.23.246.4`
+  
+  `fd2c:1323:4042::4`
+  
+  `fe80::1816`
+
+- WireGuard Public Key
+
+  `Tv1+HniELrS4Br2i7oQgwqBJFXQKculsW8r+UOqQXH0=`
+
+- Connectivity 连接性
+  
+  IPv4 + IPv6
+  
+  800Mbps
+
 #### NO1 | Norway | Terrahost
 
 - Endpoint 公网地址
@@ -171,31 +199,3 @@ Setting up a peering in every region where we both have nodes is recommended to 
   IPv4 + IPv6
   
   10Gbps
-
-#### SG1 | Singapore | AWS
-
-- Endpoint 公网地址
-
-  `sg1.dn42.potat0.cc`
-
-  IPv4 address may change. Please use the domain above. IPv4 地址可能发生变化，请使用上方域名。
-
-  `2406:da18:280:ac00:4415:bc12:e446:4d9a`
-
-- DN42
-
-  `172.23.246.4`
-  
-  `fd2c:1323:4042::4`
-  
-  `fe80::1816`
-
-- WireGuard Public Key
-
-  `Tv1+HniELrS4Br2i7oQgwqBJFXQKculsW8r+UOqQXH0=`
-
-- Connectivity 连接性
-  
-  IPv4 + IPv6
-  
-  1Gbps
