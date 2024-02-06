@@ -144,15 +144,15 @@ Setting up a peering in every region where we both have nodes is recommended to 
   
   1Gbps
 
-#### HK1 | Hong Kong | DogYun
+#### HK1 | Hong Kong | Skywolf
 
 - Endpoint 公网地址
 
   `hk1.dn42.potat0.cc`
 
-  `206.237.0.233`
+  `103.213.4.35`
 
-  `2401:2660:1000:3aa:2545:56b0:8207:3455`
+  `2401:5a0:1000:1f::a`
 
 - DN42
 
@@ -170,7 +170,7 @@ Setting up a peering in every region where we both have nodes is recommended to 
   
   IPv4 + IPv6
   
-  800Mbps
+  1Gbps
 
 #### NO1 | Norway | Terrahost
 
