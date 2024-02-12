@@ -74,6 +74,12 @@ I provide a Status Page at the following address. 我在以下地址提供了一
   
 - My network only accepts routes that are registered in DN42, and unknown routes (to accomodate newly registered users). 我的网络只允许接收在 DN42 中注册过的路由，以及未知路由（以方便新注册 DN42 的用户）。
 
+  For troubleshooting, received invalid routes will be listed here. 为方便排查，我将收到的 ROA Invalid 路由显示在了下面的地址中。
+
+  IPv4: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/us1+hk1+no1/table%20dn42_roa_invalid_table4) / [DN42](https://lg.potat0.dn42/route_generic/us1+hk1+no1/table%20dn42_roa_invalid_table4)
+
+  IPv6: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/us1+hk1+no1/table%20dn42_roa_invalid_table6) / [DN42](https://lg.potat0.dn42/route_generic/us1+hk1+no1/table%20dn42_roa_invalid_table6)
+
 - Contact information in the registry must always be up to date and admins must respond when contacted. 在注册处的联系信息必须是有效的，且管理员在需要的时候可以联系得到。
 
 - I do not Peer with servers in mainland China, but I don't completely refuse either. If your server is in mainland China and you have a reasonable explanation, please contact me directly. **DO NOT** try to use Bot to establish a connection to Chinese Mainland!  我不与中国大陆服务器进行 Peer，但是也不完全拒绝。如果你的服务器在中国大陆，并且有合理理由，请直接联系我。**不要**尝试使用 Bot 建立与中国大陆的连接！
