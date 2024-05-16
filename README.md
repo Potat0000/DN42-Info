@@ -84,6 +84,8 @@ I provide a Status Page at the following address. 我在以下地址提供了一
 
 - I do not Peer with servers in mainland China, but I don't completely refuse either. If your server is in mainland China and you have a reasonable explanation, please contact me directly. The tunnel connection to mainland China will be blocked by my firewall, so **DO NOT** try to establish such a connection by using the Bot!  我不与中国大陆服务器进行 Peer，但是也不完全拒绝。如果你的服务器在中国大陆，并且有合理理由，请直接联系我。与中国大陆的隧道连接会被我的防火墙切断，因此**不要**尝试使用 Bot 建立这样的连接！
 
+  *IP location data powered by [CZ88](https://www.cz88.net). IP 地理位置数据由 [纯真CZ88](https://www.cz88.net) 提供支持。*
+
 ## Peeeing requests for manual peering 人工对等互联请求
 
 **Please use the AutoPeer service first! 请优先使用 AutoPeer 服务！**
