@@ -180,7 +180,7 @@ Setting up a peering in every region where we both have nodes is recommended to 
   
   1Gbps
 
-#### NO1 | Norway | Terrahost
+#### NO1 | Norway | Gigahost
 
 - Endpoint 公网地址
 
