@@ -130,9 +130,9 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
   `us1.dn42.potat0.cc`
 
-  `198.98.56.83`
+  `205.185.115.185`
 
-  `2605:6400:10:ffc:de30:1d96:e61e:43ff`
+  `2605:6400:20:11c2::cafe`
   
 - DN42
 
@@ -158,9 +158,9 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
   `hk1.dn42.potat0.cc`
 
-  `103.213.4.35`
+  `103.213.4.37`
 
-  `2401:5a0:1000:1f::a`
+  `2401:5a0:1000:2c::a`
 
 - DN42
 
