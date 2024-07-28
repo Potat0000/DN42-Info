@@ -76,9 +76,9 @@ I provide a Status Page at the following address. 我在以下地址提供了一
 
   For troubleshooting, received invalid routes will be listed here. 为方便排查，我将收到的 ROA Invalid 路由显示在了下面的地址中。
 
-  IPv4: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/us1+hk1+no1/table%20dn42_roa_invalid_table4) / [DN42](https://lg.potat0.dn42/route_generic/us1+hk1+no1/table%20dn42_roa_invalid_table4)
+  IPv4: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/las+hkg+trf/table%20dn42_roa_invalid_table4) / [DN42](https://lg.potat0.dn42/route_generic/las+hkg+trf/table%20dn42_roa_invalid_table4)
 
-  IPv6: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/us1+hk1+no1/table%20dn42_roa_invalid_table6) / [DN42](https://lg.potat0.dn42/route_generic/us1+hk1+no1/table%20dn42_roa_invalid_table6)
+  IPv6: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/las+hkg+trf/table%20dn42_roa_invalid_table6) / [DN42](https://lg.potat0.dn42/route_generic/las+hkg+trf/table%20dn42_roa_invalid_table6)
 
 - Contact information in the registry must always be up to date and admins must respond when contacted. 在注册处的联系信息必须是有效的，且管理员在需要的时候可以联系得到。
 
@@ -108,7 +108,7 @@ If you are unable to use the AutoPeer service, then please send a Peer Request a
 
 E.g.:
 ```
-Node: US1
+Node: HKG
 Public key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Endpoint: your.domain.tld:21816
 ASN: 4242421816
@@ -124,11 +124,11 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 推荐在每个我们都有节点的地区建立 Peer，以加强网络健壮性。
 
-#### US1 | Las Vegas, USA | BuyVM
+#### LAS | Las Vegas, USA | BuyVM
 
 - Endpoint 公网地址
 
-  `us1.dn42.potat0.cc`
+  `las.node.potat0.cc`
 
   `205.185.115.185`
 
@@ -152,11 +152,11 @@ Setting up a peering in every region where we both have nodes is recommended to 
   
   1Gbps
 
-#### HK1 | Hong Kong | Skywolf
+#### HKG | Hong Kong | Skywolf
 
 - Endpoint 公网地址
 
-  `hk1.dn42.potat0.cc`
+  `hkg.node.potat0.cc`
 
   `103.213.4.37`
 
@@ -180,11 +180,11 @@ Setting up a peering in every region where we both have nodes is recommended to 
   
   1Gbps
 
-#### NO1 | Norway | Gigahost
+#### TRF | Norway | Gigahost
 
 - Endpoint 公网地址
 
-  `no1.dn42.potat0.cc`
+  `trf.node.potat0.cc`
 
   `185.125.171.92`
 
