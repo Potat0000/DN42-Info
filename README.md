@@ -149,8 +149,6 @@ Setting up a peering in every region where we both have nodes is recommended to 
 - Connectivity 连接性
   
   IPv4 + IPv6
-  
-  1Gbps
 
 #### HKG | Hong Kong | Skywolf
 
@@ -177,18 +175,16 @@ Setting up a peering in every region where we both have nodes is recommended to 
 - Connectivity 连接性
   
   IPv4 + IPv6
-  
-  1Gbps
 
-#### TRF | Norway | Gigahost
+#### FRA | Frankfurt | Unesty
 
 - Endpoint 公网地址
 
-  `trf.node.potat0.cc`
+  `fra.node.potat0.cc`
 
-  `185.125.171.92`
+  `179.61.138.211`
 
-  `2a03:94e0:ffff:185:125:171::92`
+  `2a0f:5707:aaf0::1`
 
 - DN42
 
@@ -205,5 +201,3 @@ Setting up a peering in every region where we both have nodes is recommended to 
 - Connectivity 连接性
   
   IPv4 + IPv6
-  
-  10Gbps
