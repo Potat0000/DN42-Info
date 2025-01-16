@@ -176,15 +176,15 @@ Setting up a peering in every region where we both have nodes is recommended to 
   
   IPv4 + IPv6
 
-#### FRA | Frankfurt | Unesty
+#### FRA | Frankfurt | V.PS
 
 - Endpoint 公网地址
 
   `fra.node.potat0.cc`
 
-  `179.61.138.211`
+  `45.147.49.254`
 
-  `2a0f:5707:aaf0::1`
+  `2a09:0:9::21e`
 
 - DN42
 
