@@ -182,7 +182,7 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
   `fra.node.potat0.cc`
 
-  `45.147.49.254`
+  `194.169.54.101`
 
   `2a09:0:9::21e`
 
