@@ -76,9 +76,9 @@ I provide a Status Page at the following address. 我在以下地址提供了一
 
   For troubleshooting, received invalid routes will be listed here. 为方便排查，我将收到的 ROA Invalid 路由显示在了下面的地址中。
 
-  IPv4: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/las+hkg+trf/table%20dn42_roa_invalid_table4) / [DN42](https://lg.potat0.dn42/route_generic/las+hkg+trf/table%20dn42_roa_invalid_table4)
+  IPv4: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/las+hkg+fra/table%20dn42_roa_invalid_table4) / [DN42](https://lg.potat0.dn42/route_generic/las+hkg+fra/table%20dn42_roa_invalid_table4)
 
-  IPv6: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/las+hkg+trf/table%20dn42_roa_invalid_table6) / [DN42](https://lg.potat0.dn42/route_generic/las+hkg+trf/table%20dn42_roa_invalid_table6)
+  IPv6: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/las+hkg+fra/table%20dn42_roa_invalid_table6) / [DN42](https://lg.potat0.dn42/route_generic/las+hkg+fra/table%20dn42_roa_invalid_table6)
 
 - Contact information in the registry must always be up to date and admins must respond when contacted. 在注册处的联系信息必须是有效的，且管理员在需要的时候可以联系得到。
 
