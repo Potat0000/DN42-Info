@@ -76,9 +76,9 @@ I provide a Status Page at the following address. 我在以下地址提供了一
 
   For troubleshooting, received invalid routes will be listed here. 为方便排查，我将收到的 ROA Invalid 路由显示在了下面的地址中。
 
-  IPv4: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/las+hkg+fra/table%20dn42_roa_invalid_table4) / [DN42](https://lg.potat0.dn42/route_generic/las+hkg+fra/table%20dn42_roa_invalid_table4)
+  IPv4: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/las+hkg+fra+syd/table%20dn42_roa_invalid_table4) / [DN42](https://lg.potat0.dn42/route_generic/las+hkg+fra+syd/table%20dn42_roa_invalid_table4)
 
-  IPv6: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/las+hkg+fra/table%20dn42_roa_invalid_table6) / [DN42](https://lg.potat0.dn42/route_generic/las+hkg+fra/table%20dn42_roa_invalid_table6)
+  IPv6: [Clearnet 公网](https://lg-dn42.potat0.cc/route_generic/las+hkg+fra+syd/table%20dn42_roa_invalid_table6) / [DN42](https://lg.potat0.dn42/route_generic/las+hkg+fra+syd/table%20dn42_roa_invalid_table6)
 
 - Contact information in the registry must always be up to date and admins must respond when contacted. 在注册处的联系信息必须是有效的，且管理员在需要的时候可以联系得到。
 
@@ -124,7 +124,7 @@ Setting up a peering in every region where we both have nodes is recommended to 
 
 推荐在每个我们都有节点的地区建立 Peer，以加强网络健壮性。
 
-#### LAS | Las Vegas, USA | BuyVM
+#### LAS | Las Vegas | BuyVM
 
 - Endpoint 公网地址
 
@@ -197,6 +197,32 @@ Setting up a peering in every region where we both have nodes is recommended to 
 - WireGuard Public Key
 
   `H6HdsuQsav9puKyo8SJaML0vPU/a2lLQjTRc7dmiqjs=`
+
+- Connectivity 连接性
+  
+  IPv4 + IPv6
+
+#### SYD | Sydney | SMC
+
+- Endpoint 公网地址
+
+  `syd.node.potat0.cc`
+
+  `206.168.133.85`
+
+  `2602:fbd9:100:54::1`
+
+- DN42
+
+  `172.23.246.10`
+  
+  `fd2c:1323:4042::10`
+  
+  `fe80::1816`
+
+- WireGuard Public Key
+
+  `BRBdho23apYZttFbSFvLLEhR59F0dBQgKB3YFychGHQ=`
 
 - Connectivity 连接性
   
